@@ -1,8 +1,13 @@
-# datahub-testing
+---
+title: My first
+authors: [Yedige Ashmet]
+date: "2024-03-29"
+---
 
+## BTC-USD charts
 <LineChart
-  data="https://github.com/gradedSystem/datahub-testing/blob/main/BTC-USD.csv"
-  title="Oil Price x Year"
+  data="BTC-USD.csv"
+  title="Bitcoin Data"
   xAxis="Date"
-  yAxis="Adj Close"
+  yAxis="Volume"
 />

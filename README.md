@@ -1,2 +1,2 @@
 # datahub-testing
-<PlotlyBarChart data=BTC-USD.csv xAxis="Date" yAxis="Open" />
+<FlatUiTable url="[https://github.com/gradedSystem/datahub-testing/blob/main/BTC-USD.csv" />
